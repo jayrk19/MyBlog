@@ -1,6 +1,0 @@
-Designed and developed a solution for updating address of nodes without creating TT's.creating TT's.
-• Integrated API's for address validation and approval mechanism for fetching approval from Sr. Manager of the requestor.
-Developed and implemented a robust API to efficiently update the address in downstream systems, resulting in improved data accuracy
-and streamlined processes.
-• Tech involved: Java, Spring, React, Typescript, AWS components like Lambda, SQS, and DynamoDB.
-• Impact: Reduced the overall completion time for address update of nodes from 26 days to 1 day and eliminated manual efforts for SDE.
